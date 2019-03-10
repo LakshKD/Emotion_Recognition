@@ -49,15 +49,8 @@ python train_emotion_classifier.py
 <a id="p4"></a> 
 # Dataset:
 
-I have used [this](https://www.kaggle.com/c/3364/download-all) dataset
+Used [this](https://www.kaggle.com/c/3364/download-all) dataset
 
 Download it and put the csv in fer2013/fer2013/
 
 -fer2013 emotion classification test accuracy: 66%
-
-
-# Credits
-This work is inspired from this fascinating [work](https://github.com/oarriaga/face_classification) and the amazing resources of Adrian Rosebrock.
-
-# Ongoing 
-Draw emotions faces next to the detected face.
